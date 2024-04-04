@@ -1,4 +1,4 @@
-                                            --> CASO MEGAMEDIO <--
+                                            --> CASO MEGAMEDIA <--
 El Blog de Usuarios es una aplicación web basada en Spring Boot y PostgreSQL que permite a los usuarios registrados publicar y compartir sus pensamientos, ideas y conocimientos sobre una variedad de temas. Los usuarios pueden crear fácilmente nuevas publicaciones, editarlas o eliminarlas según sea necesario. Además, la plataforma facilita la interacción social, permitiendo a los usuarios comentar y compartir las publicaciones de otros miembros de la comunidad. Con una interfaz simple y amigable, el Blog de Usuarios fomenta la participación activa y el intercambio de ideas entre sus usuarios.
 
 Imagenes:
